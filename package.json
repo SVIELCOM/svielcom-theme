@@ -1,0 +1,60 @@
+{
+	"name": "svielcom-theme",
+	"displayName": "SVIELCOM Theme",
+	"description": "My dark theme for Visual Studio Code",
+	"version": "1.0.0",
+	"scripts": {
+		"publish": "svielcom publish"
+	},
+	"publisher": "SVIELCOM",
+	"author": {
+		"name": "Vladislav Shustov",
+		"email": "svielcom@gmail.com",
+		"url": "https://SVIELCOM.github.io"
+	},
+	"icon": "logo.png",
+	"galleryBanner": {
+		"color": "#15141b",
+		"theme": "dark"
+	},
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.47.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark",
+		"svielcom-theme",
+		"c-theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "SVIELCOM",
+				"uiTheme": "vs-dark",
+				"path": "./themes/from-do-you-even-dev-bro-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/svielcom/svielcom-theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/daltonmenezes/aursvielcom/svielcom-theme/issues"
+	},
+	"__metadata": {
+		"id": "a37a3289-9175-4409-968e-a73e43095911",
+		"publisherId": "5f5fe9b3-aeed-4ae4-a427-c8d833b5a052",
+		"publisherDisplayName": "SVIELCOM",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1666242549369,
+		"preRelease": false
+	}
+}
