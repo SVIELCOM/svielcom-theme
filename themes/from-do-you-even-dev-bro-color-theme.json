@@ -1899,6 +1899,62 @@
         "foreground": "#e04a2f"
       }
     },
+    {
+      "name": "Shell command",
+      "scope": "entity.name.command.shell",
+      "settings": {
+        "foreground": "#059ddf"
+      }
+    },
+    {
+      "name": "Shell operator",
+      "scope": "keyword.operator.heredoc.shell",
+      "settings": {
+        "foreground": "#047cb0"
+      }
+    },
+    {
+      "name": "String EOF",
+      "scope": "string.unquoted.heredoc.shell",
+      "settings": {
+        "foreground": "#04b096"
+      }
+    },
+    {
+      "name": "String unquoted argument",
+      "scope": "string.unquoted.argument.shell",
+      "settings": {
+        "foreground": "#b08e04"
+      }
+    },
+    {
+      "name": "If block shell",
+      "scope": "meta.scope.if-block.shell",
+      "settings": {
+        "foreground": "#049d86"
+      }
+    },
+    {
+      "name": "Shell operator pipe",
+      "scope": "keyword.operator.pipe.shell",
+      "settings": {
+        "foreground": "#a660fc"
+      }
+    },
+    {
+      "name": "Shell variable curly brackets",
+      "scope": "punctuation.section.bracket.curly.variable",
+      "settings": {
+        "foreground": "#c360fc"
+      }
+    },
+    {
+      "name": "Shell definition curly brackets",
+      "scope": "punctuation.definition.group.shell",
+      "settings": {
+        "foreground": "#ff0000"
+      }
+    },
   ],
   "colors": {
     "foreground": "#cccccc",
