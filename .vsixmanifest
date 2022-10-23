@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="aura-theme" Version="2.1.2" Publisher="DaltonMenezes" />
-			<DisplayName>Aura Theme</DisplayName>
-			<Description xml:space="preserve">A beautiful dark theme for Visual Studio Code</Description>
-			<Tags>theme,dark,aura-theme,color-theme,__web_extension</Tags>
+			<Identity Language="en-US" Id="aura-theme" Version="2.1.2" Publisher="SVIELCOM" />
+			<DisplayName>SVIELCOM Theme</DisplayName>
+			<Description xml:space="preserve">My dark theme for Visual Studio Code</Description>
+			<Tags>theme,dark,svielcom-theme,color-theme,__web_extension</Tags>
 			<Categories>Themes</Categories>
 			<GalleryFlags>Public</GalleryFlags>
 			
@@ -15,11 +15,11 @@
 				<Property Id="Microsoft.VisualStudio.Code.ExtensionKind" Value="ui,workspace,web" />
 				<Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
 				
-				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/daltonmenezes/aura-theme.git" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/daltonmenezes/aura-theme.git" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/daltonmenezes/aura-theme.git" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/daltonmenezes/aura-theme/issues" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/daltonmenezes/aura-theme#readme" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/SVIELCOM/svielcom-theme.git" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/SVIELCOM/svielcom-theme.git" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/SVIELCOM/svielcom-theme.git" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="" />
 				<Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#15141b" />
 				<Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="dark" />
 				<Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
