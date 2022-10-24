@@ -1949,6 +1949,22 @@
       }
     },
     {
+      "name": "Gitignore text",
+      "scope": "text.gitignore",
+      "settings": {
+        "foreground": "#ff5a01",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "JSON comment",
+      "scope": "string.quoted.double.json.comments",
+      "settings": {
+        "foreground": "#4dfbbbf0",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Shell definition curly brackets",
       "scope": "punctuation.definition.group.shell",
       "settings": {
